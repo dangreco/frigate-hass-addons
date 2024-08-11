@@ -1,7 +1,7 @@
 name: Frigate (Rockchip)
-version: 0.14.0-4k
+version: 0.14.0-rk
 breaking_versions:
-  - 0.14.0-4k
+  - 0.14.0-rk
 panel_icon: "mdi:cctv"
 panel_title: Frigate
 slug: frigate-rk
